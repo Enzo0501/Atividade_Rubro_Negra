@@ -186,7 +186,7 @@ void menu() {
     printf("\n===== Sistema de Gerenciamento de Usuarios (AVL) =====\n");
     printf("1. Cadastrar Usuario\n");
     printf("2. Remover Usuario\n");
-    printf("3. Buscar Usuário\n");
+    printf("3. Buscar Usuario\n");
     printf("4. Listar Usuarios (Ordem Alfabetica)\n");
     printf("0. Sair\n");
     printf("Escolha uma opcao: ");
